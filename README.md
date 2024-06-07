@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somashekar S</h1>
-<h3 align="center">A foolish Embedded Engineer from India</h3>
+<h3 align="center">A foolish Embedded Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadly16soma&label=Profile%20views&color=0e75b6&style=flat" alt="deadly16soma" /> </p>
 
